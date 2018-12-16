@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b97a704a-2c33-45a4-b2a7-0c95093f6c7e" name="Default Changelist" comment="" />
+    <list default="true" id="b97a704a-2c33-45a4-b2a7-0c95093f6c7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScriptExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngDefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngParallel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testcases/Daka90AutomationScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testcases/Daka90AutomationScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -24,8 +32,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            <state relative-caret-position="220">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testngDefault.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -33,11 +50,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScript.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="726">
+              <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScriptExplorer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testngParallel.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -82,12 +120,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/Test1.java" />
         <option value="$PROJECT_DIR$/src/test/java/utils/WaitForElement.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject/Daka90AutomationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/testcases/Test1.java" />
         <option value="$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationPage.java" />
+        <option value="$PROJECT_DIR$/testngParallel" />
+        <option value="$PROJECT_DIR$/testngParallel1.xml" />
+        <option value="$PROJECT_DIR$/testngDefualt.xml" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScriptExplorer.java" />
         <option value="$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScript.java" />
       </list>
     </option>
@@ -99,11 +141,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="3679" />
-    <option name="y" value="98" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="405" />
+    <option name="width" value="5796" />
+    <option name="height" value="2186" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +201,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544954813257" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544966345847" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -209,41 +251,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 13h 49m 07s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 13h 27m 23s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 13h 52m 37s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 13h 30m 55s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 13h 58m 22s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 14h 10m 36s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 14h 05m 13s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 14h 14m 34s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 14h 08m 07s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 14h 43m 31s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 14h 37m 58s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 14h 55m 14s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 14h 55m 51s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 14h 59m 33s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.15 at 14h 57m 42s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 15h 01m 53s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 11h 48m 07s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 15h 10m 26s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 11h 49m 52s.xml">
+    <history-entry file="C__Users_amiry_IdeaProjects_Daka90MavenAutomation_testng_xml - 2018.12.16 at 15h 17m 45s.xml">
       <configuration name="C:/Users/amiry/IdeaProjects/Daka90MavenAutomation/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3679" y="98" width="2576" height="1416" extended-state="1" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579491" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26202783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,20 +314,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageobject/Daka90AutomationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4444">
@@ -306,10 +334,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testngParallel">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" lean-forward="true" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testngDefault.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testngParallel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScriptExplorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testcases/Daka90AutomationScript.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="726">
+          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

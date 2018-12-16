@@ -33,6 +33,10 @@ public class Daka90AutomationScript {
         //Open Daka90 URL
         driver.get("https://www.daka90.co.il");
 
+        //print the Thread for this class
+        System.out.println("Running Daka90utomationScript with thread ID:"+Thread.currentThread().getId());
+
+
     }
 
     @Test
