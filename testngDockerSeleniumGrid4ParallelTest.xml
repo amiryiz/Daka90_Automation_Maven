@@ -1,17 +1,17 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="SampleSuite" parallel="classes">
+<suite name="SampleSuite" parallel="tests">
 
     <test name="ChromeTest">
         <parameter name="browser" value="chrome" />
         <classes>
-            <class name="testcases.Daka90DockerParallelTest" />
+            <class name="testcases.Daka90AutomationScript" />
         </classes>
     </test>
 
     <test name="FirefoxTest">
         <parameter name="browser" value="firefox" />
         <classes>
-            <class name="testcases.Daka90DockerParallelTest" />
+            <class name="testcases.Daka90AutomationScriptExplorer" />
         </classes>
     </test>
 

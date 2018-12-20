@@ -3,7 +3,7 @@
 
     <test name="SampleTest">
         <classes>
-            <class name="testcases.Daka90AutomationScriptExplorer" />
+            <class name="testcases.Daka90AutomationScript" />
         </classes>
     </test>
 
